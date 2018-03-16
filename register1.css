@@ -1,0 +1,22 @@
+<style>
+	body{
+		text-align:center;
+		color:yellow;
+	}
+	#a{
+		background-image:url(news.jpg);
+		padding-top:13%;
+		background-size:cover;
+		background-repeat: no-repeat;
+		
+	}
+	h1{
+		color:red;
+		font-size:40px;
+	}
+	
+		
+	
+	
+	
+  </style>
